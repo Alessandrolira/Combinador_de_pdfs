@@ -3,8 +3,8 @@ O SCRIPT criado serve para combinar pdfs em apenas um arquivo
 
 Para um bom funcionamento do código
 
-  ---É preciso ser criado uma pasta juntamente com o executavel chamada pdfs\
-  ---Também deve ser ciriada Output\
+  ---É preciso ser criado uma pasta juntamente com o executavel chamada: pdfs\
+  ---Também deve ser ciriada outra pasta com o nome: de Output\
  
 Os pdfs que precisam ser combinados são inseridos em ordem alfabética crescente
 
