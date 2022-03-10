@@ -1,7 +1,7 @@
 # Combinador_de_pdfs
 O SCRIPT criado serve para combinar pdfs em apenas um arquivo
 
-Bom funcionamento do código
+Para um bom funcionamento do código
 
   ---É preciso ser criado uma pasta juntamente com o executavel chamada pdfs\
   ---Também deve ser ciriada Output\
